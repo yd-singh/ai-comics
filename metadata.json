@@ -1,0 +1,5 @@
+{
+  "name": "ComicGen AI - By Yash",
+  "description": "An application that allows users to bring their story ideas to life by generating a multi-page comic book using AI. Users provide a story, which is enriched by Gemini, and then choose an artistic style to generate a complete comic.",
+  "requestFramePermissions": []
+}
